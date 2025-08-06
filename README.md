@@ -57,7 +57,7 @@
 
 - HTML5 (разметка страницы)
 - JavaScript (парсинг и логика)
-- [DOM API](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+- DOM API
 - Тестирование через консоль браузера
 
 ---
