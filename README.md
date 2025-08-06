@@ -69,4 +69,4 @@
    git clone https://github.com/your-username/meta-reviews-parser.git
    ```
 2. Запусти Live Server или открой index.html в браузере.
-3. Посмотри результат в консоле.
+3. Результат появляется в консоли разработчика (F12 → Console).
